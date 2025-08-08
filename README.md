@@ -1,7 +1,6 @@
 # 🏛️ Historical Artifacts Tracker
 
-![Dashboard Screenshot]([images/dashboard.png](https://github.com/abdulkader33447/a11-artifacts-vault-client/blob/6e8abc27d7685b412902ee85869907c538f6507e/artifacts-vault.web.app_%20(1).png))
-
+![img alt](https://github.com/abdulkader33447/a11-artifacts-vault-client/blob/6e8abc27d7685b412902ee85869907c538f6507e/artifacts-vault.web.app_%20(1).png)
 A full-stack web application that allows users to browse, add, like, and manage historical artifacts like the Rosetta Stone, Antikythera Mechanism, and more.
 
 ## 🔗 Live Site
