@@ -50,6 +50,6 @@ The primary goal of this project is to demonstrate practical implementation of m
 
 ### Server Side:
 - Express.js
-- MongoDB + Mongoose
+- MongoDB
 - CORS
 - dotenv
